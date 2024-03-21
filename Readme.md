@@ -2,9 +2,13 @@ Dependencies: graph-tool (https://graph-tool.skewed.de), igraph (https://python.
 
 The folder contains pickled files that contain sets of motifs. e.g. 'Umotifs6' : undirected motifs up to 6 nodes, 'Dmotifs4' : directed motifs up to 4 nodes etc. 
 
-The jupyter notebook AnalyseC contains functions for plotting subgraph configurations and motifs, and functions for description lengths of various models. 
+InferC.py contains all functions for inferring subgraph configurations based on various models. 
 
-The notebook SignificanceProfiles contains functions for calculating significance profiles for configruations. 
+The notebook run.ipynb contains an example for inferring subgraph configurations. 
+
+The notebook AnalyseC contains functions for plotting subgraph configurations and motifs, and functions for description lengths of various models. 
+
+The notebook SignificanceProfiles contains functions for calculating significance profiles for configurations. 
 
 The notebook RandomizeDCSGCM contains functions for randomizing configurations and generating configurations for various models. 
 
