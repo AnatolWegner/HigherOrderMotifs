@@ -14,5 +14,5 @@ The notebook RandomizeDCSGCM contains functions for randomizing configurations a
 
 The notebook GenerateM contains functions for generating various sets of motifs (based on nauty). 
 
-The Results folder contains pre-computed MAP configurations for various degree corrected and non-DC models. 
+The Results folder contains pre-computed MAP configurations for various network analysed in the paper based on degree corrected and non-DC models. 
 
