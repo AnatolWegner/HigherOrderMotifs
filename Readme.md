@@ -1,6 +1,6 @@
 Dependencies: graph-tool (https://graph-tool.skewed.de), igraph (https://python.igraph.org/en/stable/)
 
-The folder contains pickled files that contain sets of motifs. e.g. 'Umotifs6' : undirected motifs up to 6 nodes, 'Dmotifs4' : directed motifs up to 4 nodes etc. 
+The folder contains pickled files that contain lists of motifs. e.g. 'Umotifs6' : undirected motifs up to 6 nodes, 'Dmotifs4' : directed motifs up to 4 nodes etc. 
 
 InferC.py contains all functions for inferring subgraph configurations based on various models. 
 
