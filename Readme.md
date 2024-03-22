@@ -12,7 +12,7 @@ The notebook SignificanceProfiles contains functions for calculating significanc
 
 The notebook RandomizeDCSGCM contains functions for randomizing configurations and generating configurations for various models. 
 
-The notebook GenerateM contains functions for generating various sets of motifs (based on nauty). 
+The notebook GenerateM contains functions for generating various sets of motifs (based on nauty http://users.cecs.anu.edu.au/~bdm/nauty). 
 
 The Results folder contains pre-computed MAP configurations for various network analysed in the paper based on degree corrected and non-DC models. 
 
