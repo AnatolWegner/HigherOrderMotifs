@@ -10,3 +10,9 @@ e.g. celegansneuralAD5lad : MAP configuration of celegansneural, total degree mo
 
 The 'Meta' folder contains results for metabolic networks. 
 
+
+The 'Meta' folder contains results for metabolic networks. 
+
+The 'PPI-TOL' folder contains results for PPI networks. 
+
+The folders 'DirectedConnectomes' and 'UndirectedConnectomes' contain results for human connectomes. 
